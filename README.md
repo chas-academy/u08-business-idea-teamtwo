@@ -2,8 +2,8 @@
 
 ### Live site
 
-You can find live version here: [Frontend](https://doggymatch.netlify.app/)
-You can find live version here: [Backend](https://doggymatch-site.herokuapp.com/)
+- You can find live version here: [Frontend](https://doggymatch.netlify.app/)
+- You can find live version here: [Backend](https://doggymatch-site.herokuapp.com/)
 
 ## GitHub
 
